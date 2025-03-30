@@ -27,5 +27,5 @@ Bot de Telegram en Python para monitorear posibles filtraciones de información 
 
 ```bash
 git clone https://github.com/MrR0b0t19/leaked-bot
-cd leak-watcher-bot
+cd leaked-bot
 pip install -r requirements.txt
